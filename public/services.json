@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Fluoride Treatment",
+    "discription": "Fluoride treatments are typically professional treatments containing a high concentration of fluoride.",
+    "img" : "https://i.ibb.co/G34DQS9/cavity.png"
+  },
+  {
+      "name" : "Cavity Filling",
+      "discription" : "Basically, a cavity is hole in the tooth . This is often often caused by bacteria, which builds up from eating unhealthy food.",
+      "img" : "https://i.ibb.co/Jk1S4BW/fluoride.png"
+  },
+  {
+      "name" : "Teath Whitening",
+      "discription" : "With professional Teeth Whitening treatment, you can enjoy the boost in confidence of a bright, white smile.",
+      "img" : "https://i.ibb.co/VphvKN4/whitening.png"
+  }
+]

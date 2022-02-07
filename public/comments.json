@@ -1,0 +1,23 @@
+[
+    {
+        "id" : "0",
+        "name" : "Willson Harry",
+        "address": "california",
+        "img": "https://i.ibb.co/qjnV8jg/people-1.png",
+        "discription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis commodi quis officiis pariatur enim, dolore ipsam consequuntur expedita, dolores asperiores obcaecati neque odio blanditiis? Sed, excepturi blanditiis deleniti voluptates numquam magnam error soluta ea modi aliquid iusto doloribus ratione dolores consequatur, quidem, laboriosam aspernatur nisi corrupti earum! Qui, distinctio eveniet."
+    },
+    {
+        "id" : "1",
+        "name" : "Ms Jassica",
+        "address": "Taxas",
+        "img": "https://i.ibb.co/C7wWGkq/people-2.png",
+        "discription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis commodi quis officiis pariatur enim, dolore ipsam consequuntur expedita, dolores asperiores obcaecati neque odio blanditiis? Sed, excepturi blanditiis deleniti voluptates numquam magnam error soluta ea modi aliquid iusto doloribus ratione dolores consequatur, quidem, laboriosam aspernatur nisi corrupti earum! Qui, distinctio eveniet."
+    },
+    {
+        "id" : "2",
+        "name" : "Brown havars",
+        "address": "New Yework",
+        "img": "https://i.ibb.co/fFJ4TyR/people-3.png",
+        "discription": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis commodi quis officiis pariatur enim, dolore ipsam consequuntur expedita, dolores asperiores obcaecati neque odio blanditiis? Sed, excepturi blanditiis deleniti voluptates numquam magnam error soluta ea modi aliquid iusto doloribus ratione dolores consequatur, quidem, laboriosam aspernatur nisi corrupti earum! Qui, distinctio eveniet."
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id" : 0,
+        "name" : "Teeth Orthodontics",
+        "time" : "8:00 AM - 9:00 AM",
+        "price" : 9350,
+        "space": "10"
+    },
+    {
+        "id" : 1,
+        "name" : "Cosmetic Dentistry",
+        "time" : "10:05 AM - 11:30 AM",
+        "price" : 1370,
+        "space": "10"
+    },
+    {
+        "id" : 2,
+        "name" : "Teeth Cleaning",
+        "time" : "5:00 PM - 6:30 PM",
+        "price" : 1800,
+        "space": "10"
+    },
+    {
+        "id" : 3,
+        "name" : "Pediatric Dental",
+        "time" : "8:00 AM - 9:00 AM",
+        "price" : 6948,
+        "space": "10"
+    },
+    {
+        "id" : 4,
+        "name" : "Cavity Protection",
+        "time" : "7:00 AM - 8:30 AM",
+        "price" : 4560,
+        "space": "10"
+    },
+    {
+        "id" : 5,
+        "name" : "Oral Sugery",
+        "time" : "8:00 AM - 9:00 AM",
+        "price" : 8900,
+        "space": "10"
+    }
+]
